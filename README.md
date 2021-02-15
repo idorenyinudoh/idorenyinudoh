@@ -3,14 +3,7 @@ I'm Idorenyin Udoh, a student-developer based in Ogun State, Nigeria.
 
 I mostly do frontend stuff but I work with Node.js and MongoDB sometimes (that's backend, right?).
 
-My stack includes:
-* HTML
-* CSS
-* **Vanilla** JavaScript
-* Pug
-* Node.js
-* Express
-* MongoDB
+My stack includes: HTML, CSS, **Vanilla** JavaScript, Pug, Node.js, Express, and MongoDB
 
 I write too. I have [some articles on CSS-Tricks](https://css-tricks.com/author/udohidorenyin).
 
