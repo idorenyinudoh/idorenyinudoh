@@ -10,7 +10,7 @@ Also, if you haven't figured out by now (I hope you figured out), I write really
 
 Damn, that's a lot of text.
 
-Rounding up, because my current portfolio isn't something I'm exactly proud of, I haven't updated it in a while. Hence, some of the projects I've worked on recently are [Aduragbemi Abiola's portfolio](https://www.adura.design/), [Residentes en Revision](https://www.residentesenrevision.com/), and [CityJS's Website](https://cityjsconf.org/).
+Rounding up, I would appreciate it if you could check out [my portfolio](https://iudoh.me).
 
 I'm very much open to frontend engineering and technical writing opportunities.
 
